@@ -1,0 +1,23 @@
+
+---------------------
+
+Mumbo Jumbo User Guide - by Lochlann Freitag
+
+Overview:
+
+Mumbo Jumbo is an encryption program that can hide secret
+messages in images. These images can then be decrypted
+by another computer running the same program. While a
+message is encoded into an image, the image should appear
+the same, provided that the image contains significantly
+more pixels that the message contains characters. Otherwise,
+the image may appear slightly pixelated.
+
+This program excels at allowing people to communicate
+covertly through the ordinary correspondence of vacation
+photos, selfies, or other miscellaneous images.
+
+
+Continue reading for a detailed overview of the
+program's functionality, as well as advanced features,
+troubleshooting, and documentation.

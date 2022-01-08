@@ -1,0 +1,22 @@
+The Decrypt Function
+
+To decrypt an image(s) created with Mumbo Jumbo, there
+are three simple steps:
+
+1) Add the image(s) you want to decrypt to the Input folder,
+accessible by clicking the "Open Input" button in the
+bottom right corner of the screen. Ensure that the image(s)
+you want to decrypt are the only image(s) in the folder.
+
+2) Optional: If your image(s) have been encrypted with a key,
+type that key into the Key Input box before continuing. If
+not, leave this field blank.
+
+3) Press the Decrypt button, above the main text box. The
+system will inform you of the estimated processing time,
+which scales based on the size of your image(s). After
+that time has elapsed, your decrypted message will be
+displayed in the main text box.
+
+If your image was not successfully decrypted, see
+the troubleshooting guide at the end of this tutorial.

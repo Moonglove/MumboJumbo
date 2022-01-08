@@ -1,0 +1,22 @@
+Key Input:
+
+A key is like a password, an
+extra layer of security to help
+protect the messages that you encrypt.
+
+While Mumbo Jumbo uses advanced
+cryptographic techniques, other
+people using Mumbo Jumbo can still
+decrypt your images if you do not
+use a key. By using a key, others
+would need both the Mumbo Jumbo
+application, and your personal key to
+decrypt your message.
+
+To use a key, type a passphrase or
+message into the Key Input box below
+your message before you press the
+Encrypt button. When you need to
+decrypt your image, retype your key
+into the Key Input box before pressing
+the Decrypt button.

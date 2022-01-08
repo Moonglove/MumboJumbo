@@ -1,0 +1,26 @@
+The Encrypt Function
+
+To encrypt a message into an image(s), there are
+four simple steps:
+
+1) Add one or more .png images to the Input folder. This
+can be opened by clicking the "Open Input" button in the
+bottom right corner of the screen. You can use the default
+image(s) in the Image Library folder, or add your own.
+
+2) Type your message into the large text box in the
+centre of the screen. You can use all characters
+and symbols included on a standard keyboard. Emojis
+and irregular characters will be automatically removed.
+
+3) Optional: Type a key, as long or as short as you
+like, into the Key Input box. If used, this key will be
+required when the image(s) is to be decrypted.
+
+4) Press the Encrypt button above the text box. The system
+will inform you of the estimated processing time, which scales
+based on the size of your image(s). After that time has elapsed,
+the output folder will automatically open, and you can find your
+new image(s) there, with your message encrypted inside. If
+multiple images are used, the message will be distributed among
+all of them, and all images will need to be present for decryption.

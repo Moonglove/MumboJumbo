@@ -1,0 +1,25 @@
+Mumbo Jumbo - A Digital Pictographic Encryption Tool
+(to be formally referred to as: "The Work")
+
+Published by: Nem Moonglove
+
+This is a copyrighted (c) Document
+
+Violation of this copyright in the form of
+unlicensed use of The Work or unauthorized
+distribution of The Work could result in fines
+of up hundreds of dollars and thousands of
+minutes of jail time in a minimum security institution.
+
+The following libraries have contributed to the
+success of this project:
+
+Numpy
+
+Pillow
+
+Py2app
+
+Honourable mention to Stack Overflow which
+has helped so much during the many times
+I was stuck during development.

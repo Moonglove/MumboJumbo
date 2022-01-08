@@ -1,0 +1,16 @@
+Text Input Box:
+
+This is the main input box where you can:
+ - input messages for encryption
+ - view decrypted messages
+ - view system updates
+
+To encrypt a message, type your text
+into this box before pressing the encrypt
+button. The program will then inform you
+of the estimated processing time for your
+message.
+
+To decrypt a message, leave this field
+blank. The decrypted message will appear
+here.

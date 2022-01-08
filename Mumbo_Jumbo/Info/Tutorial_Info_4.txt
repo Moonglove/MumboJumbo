@@ -1,0 +1,24 @@
+Troubleshooting
+
+Something not working? Follow this checklist below:
+
+Encrypting:
+1) Ensure the Input folder is empty before adding your
+images to it.
+2) Ensure the Output folder is empty before using the
+Encrypt function.
+3) Ensure that all images were created with the .png
+file extension.
+
+
+Decrypting:
+1) Ensure the Input folder is empty before adding your
+images to it.
+2) If you did not use a key to encrypt, ensure the Key
+Input field is left blank.
+3) If you used a key, ensure that key has been entered
+in the Key Input field prior to decryption.
+4) Ensure that the names of all images end in #Number.
+(ex. pomegranate#1.png)
+5) Ensure that the total pixel area of your image(s) is
+significantly larger than the message you are encrypting.
